@@ -1,0 +1,32 @@
+calcCOD                 Calculate Oxygen Demand
+comp                    Methane Content of Biogas
+comp2                   Methane Content of Biogas
+cumBg                   Calculate Cumulative Biogas Production
+interp                  Interpolate Biogas Composition or Cumulative
+                        Production
+mass                    Mass Change of Batch Reactors
+mass2vol                Calculate Biogas Production Gravimetrically
+massw                   Mass Change of Batch Reactors
+molMass                 Calculate Molar Mass of Compound
+planBMP                 Claculate Inoculum and Substrate Mass for BMP
+                        Experiments
+predBg                  Predict Biogas Production
+s3compl                 Methane Content of Biogas from Batch Reactors
+s3compw                 Methane Content of Biogas from Batch Reactors
+s3lcombo                Biogas Volume and Methane Content from Batch
+                        Bottles
+s3voll                  Biogas Volume from Batch Bottles
+s3volw                  Biogas Volume from Batch Reactors
+setup                   Setup Details for Batch Reactors
+setup2                  Setup Details for Some Batch Reactors
+stdVol                  Correct Gas Volume to 'Standard' Conditions
+strawComp               Methane Content of Biogas
+strawMass               Mass Change of Batch Reactors
+strawPressure           Headspace Pressure in Batch Reactors
+strawSetup              Setup Details for Batch Reactors
+summBg                  Summarise and Normalise Cumulative Methane
+                        Production
+vol                     Biogas Volume from Batch Reactors
+vol2                    Biogas Volume from Batch Reactors
+vol2mass                Calculate Mass of Biogas
+vol2mol                 Calculate Moles of a Gas
