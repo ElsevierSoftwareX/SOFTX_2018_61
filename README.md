@@ -1,2 +1,1 @@
-"# SOFTX_2018_61" 
-"# SOFTX_2018_61" 
+Biogas production from organic materials by anaerobic digestion is both a developed technology and an active area of research. In this contribution we describe an R package designed to help standardize biogas research. A web-based application provides access to the main functions. The software can be used to accurately calculate biochemical methane potential (BMP) from a range of biogas measurement types. Additionally, methane potential can be predicted from substrate composition, facilitating experimental design and interpretation of results. By providing access to flexible, efficient, stan- dardized, and transparent algorithms, this software may make biogas research more accurate and efficient.
